@@ -7,4 +7,7 @@ module_3
 Jasleen kaur
 
 ## Assignment
-Assigmnet -3 (Flow of control)
+Assignment -3 (Flow of control)
+
+## Simulated ATM
+Easily manage bank transactions.
