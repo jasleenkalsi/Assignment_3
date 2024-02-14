@@ -19,4 +19,3 @@ with open('account_balances.txt', 'r') as file:
  
 # Use the pretty print module to display the contents of the dictionary
 pprint.pprint(account_balances)
- 

@@ -88,7 +88,7 @@ elif user_selection == "W":
 ***************************************
 """)
     else:
-        # Subtract the withdrawal amount from the current balance
+        # Subtract the withdrawal amount from the current balances
         bank_balance -=  withdraw_amount
 
 # Display the updated balance
