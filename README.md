@@ -16,4 +16,3 @@ The intention ofthe program is based on the easy access of managing banking stat
 # interest_update.py
 ## Applying interest in accounts
 the intention ofthe program to increase the wealthiness of the customers.
-
