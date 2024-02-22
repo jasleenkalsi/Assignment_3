@@ -171,3 +171,15 @@ with open(filename, 'r') as csvfile:
     else:
         print(f"The file contains {len(rows) - 1} records (excluding header).")
  
+    import csv
+ 
+# Define the filename for the CSV file
+filename = "updated_balances_JS.csv"
+ 
+# Open the CSV file in read mode using a context manager
+with open(filename, mode='r', newline='') as file:
+    # Create a CSV reader object
+    reader = csv.DictReader(file)
+    # Print the contents of the file to the console
+    for row in reader:
+        print(row)
